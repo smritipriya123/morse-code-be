@@ -1,0 +1,26 @@
+{
+  "name": "morse-code-be",
+  "version": "1.0.0",
+  "description": "Morse code be",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smritipriya123/morse-code-be.git"
+  },
+  "keywords": [
+    "Hello",
+    "world"
+  ],
+  "author": "Smriti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smritipriya123/morse-code-be/issues"
+  },
+  "homepage": "https://github.com/smritipriya123/morse-code-be#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
